@@ -62,7 +62,7 @@ const Note = ({ match, history }) => {
             deleteNote()
         } else if (noteId != "new") {
             updateNote()
-        } else if (noteId === 'new') {
+        } else if (noteId === 'new' && note !== null) {
             createNote()
         }
 
