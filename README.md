@@ -6,3 +6,6 @@
 1. - npm start  //STARTS REACT SERVER
 
 
+# Notes List
+<img src="./Notes.png">  
+
