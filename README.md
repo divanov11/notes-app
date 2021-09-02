@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Available Scripts
+1 - git clone https://github.com/divanov11/notes-app
+2 - cd notes-app
+3 - npm run server //STARTS JSON SERVER ON PORT 5000
+4 - npm start  //STARTS REACT SERVER
+
 ## Available Scripts
 
 In the project directory, you can run:
